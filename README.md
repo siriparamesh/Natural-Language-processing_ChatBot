@@ -5,5 +5,5 @@ The project is about building a chatbot in Dialogflow for a food delivery system
 <br>
 Fundamentals such as intents, entities, contexts, etc were covered as building this project in Dialogflow <br>
 <h4> Directory structure </h4>
-backend: Python FastAPI backend code<br>
+backend: Python FastAPI backend code<br> 
 Data base: MySQL db, using MySQL workbench tool<br>
